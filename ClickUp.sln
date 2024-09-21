@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickUp1", "ClickUp1\ClickUp1.csproj", "{E0BF6E0E-8072-46AD-BD5F-2FA1E4F5AF09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickUp", "ClickUp\ClickUp.csproj", "{E0BF6E0E-8072-46AD-BD5F-2FA1E4F5AF09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

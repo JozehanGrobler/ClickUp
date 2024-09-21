@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcc81fd7-039c-4a10-8620-bf77929194bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ClickUp/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickUp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClickUp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/ClickUp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/ClickUp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/ClickUp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/ClickUp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/ClickUp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/ClickUp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/ClickUp1.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/ClickUp1.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/ClickUp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/ClickUp1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/ClickUp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/ClickUp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/ClickUp1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/ClickUp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/ClickUp1.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/ClickUp1.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/Debug/net9.0/ClickUp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/Debug/net9.0/ClickUp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ClickUp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickUp1/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ClickUp/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2mLjYeHQA4ssHlugOZONyMo1oCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jozehangrobler/Projects/ClickUp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcc81fd7-039c-4a10-8620-bf77929194bc" name="Changes" comment="" />
+      <created>1726862799503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726862799503</updated>
+      <workItem from="1726862800593" duration="1689000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Library">
+      <option name="closed" value="true" />
+      <created>1726862952402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726862952402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Library" />
+  </component>
+</project>

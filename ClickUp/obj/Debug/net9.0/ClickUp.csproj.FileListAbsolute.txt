@@ -1,0 +1,13 @@
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/bin/Debug/net9.0/ClickUp.deps.json
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/bin/Debug/net9.0/ClickUp.dll
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/bin/Debug/net9.0/ClickUp.pdb
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.csproj.AssemblyReference.cache
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.AssemblyInfoInputs.cache
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.AssemblyInfo.cs
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.csproj.CoreCompileInputs.cache
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.sourcelink.json
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.dll
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/refint/ClickUp.dll
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ClickUp.pdb
+/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/Debug/net9.0/ref/ClickUp.dll
