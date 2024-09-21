@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/ClickUp.csproj",
-        "projectName": "ClickUp",
+        "projectName": "ClickUp.Api",
         "projectPath": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/ClickUp.csproj",
         "packagesPath": "/Users/jozehangrobler/.nuget/packages/",
         "outputPath": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/",
