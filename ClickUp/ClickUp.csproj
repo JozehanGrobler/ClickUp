@@ -5,14 +5,20 @@
         <Nullable>enable</Nullable>
         <RootNamespace>ClickUp</RootNamespace>
         <PackageId>IIT.ClickUp.Api</PackageId>
+        <Product>ClickUpApi</Product>
         <RepositoryType>git</RepositoryType>
-        <Authors>JozehanGrobler</Authors>
+        <Authors>Idea Information Technology</Authors>
         <Company>IdeaIT</Company>
         <Version>0.0.1</Version>
         <RepositoryUrl>https://github.com/JozehanGrobler/ClickUp</RepositoryUrl>
+        <SourceLink>https://github.com/JozehanGrobler/ClickUp</SourceLink>
+<!--        <ApplicationIcon>clickup-logo.png</ApplicationIcon>-->
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Microsoft.Extensions.Options" />
-        <PackageReference Include="Microsoft.Extensions.Http"/>
+        <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
+        <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0"/>
     </ItemGroup>
+<!--    <ItemGroup>-->
+<!--        <None Include="clickup-logo.png" Pack="true" PackagePath=""/>  -->
+<!--    </ItemGroup>-->
 </Project>
