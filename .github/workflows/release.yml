@@ -28,6 +28,6 @@ jobs:
       - name: Push
 #        https://int.nugettest.org
 #        https://api.nuget.org
-        run: dotnet nuget push ClickUp.${VERSION}.nupkg --source https://int.nugettest.org/v3/index.json --api-key ${NUGET_API_KEY}
+        run: dotnet nuget push IIT.ClickUp.Test.${VERSION}.nupkg --source https://int.nugettest.org/v3/index.json --api-key ${NUGET_API_KEY}
         env:
           NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
