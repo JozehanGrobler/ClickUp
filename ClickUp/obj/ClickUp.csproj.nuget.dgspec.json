@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/ClickUp.csproj",
-        "projectName": "ClickUp.Api",
+        "projectName": "IIT.ClickUp.Api",
         "projectPath": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/ClickUp.csproj",
         "packagesPath": "/Users/jozehangrobler/.nuget/packages/",
         "outputPath": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/obj/",
@@ -45,11 +45,11 @@
           "dependencies": {
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[9.0.0-rc.1.24431.7, )"
+              "version": "(, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[9.0.0-rc.1.24431.7, )"
+              "version": "(, )"
             }
           },
           "imports": [

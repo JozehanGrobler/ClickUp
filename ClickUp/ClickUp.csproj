@@ -1,16 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>ClickUp</RootNamespace>
-        <PackageId>ClickUp.Api</PackageId>
+        <PackageId>IIT.ClickUp.Api</PackageId>
         <RepositoryType>git</RepositoryType>
+        <Authors>JozehanGrobler</Authors>
+        <Company>IdeaIT</Company>
+        <Version>0.0.1</Version>
         <RepositoryUrl>https://github.com/JozehanGrobler/ClickUp</RepositoryUrl>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.0-rc.1.24431.7"/>
-        <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.0-rc.1.24431.7"/>
+        <PackageReference Include="Microsoft.Extensions.Options" />
+        <PackageReference Include="Microsoft.Extensions.Http"/>
     </ItemGroup>
 </Project>

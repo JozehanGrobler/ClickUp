@@ -1,22 +1,64 @@
 {
   "version": 2,
-  "dgSpecHash": "PfGRxBYPSuU=",
+  "dgSpecHash": "FfR3FZgAreo=",
   "success": true,
   "projectFilePath": "/Users/jozehangrobler/Projects/ClickUp/ClickUp/ClickUp.csproj",
   "expectedPackageFiles": [
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration/9.0.0-rc.1.24431.7/microsoft.extensions.configuration.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-rc.1.24431.7/microsoft.extensions.configuration.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0-rc.1.24431.7/microsoft.extensions.configuration.binder.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-rc.1.24431.7/microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-rc.1.24431.7/microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.diagnostics/9.0.0-rc.1.24431.7/microsoft.extensions.diagnostics.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.0-rc.1.24431.7/microsoft.extensions.diagnostics.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.http/9.0.0-rc.1.24431.7/microsoft.extensions.http.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.logging/9.0.0-rc.1.24431.7/microsoft.extensions.logging.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-rc.1.24431.7/microsoft.extensions.logging.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.options/9.0.0-rc.1.24431.7/microsoft.extensions.options.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.0-rc.1.24431.7/microsoft.extensions.options.configurationextensions.9.0.0-rc.1.24431.7.nupkg.sha512",
-    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.primitives/9.0.0-rc.1.24431.7/microsoft.extensions.primitives.9.0.0-rc.1.24431.7.nupkg.sha512"
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration/2.1.0/microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.0/microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.configuration.binder/2.1.0/microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.http/2.1.0/microsoft.extensions.http.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.logging/2.1.0/microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.0/microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.options/1.0.0/microsoft.extensions.options.1.0.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.componentmodel/4.0.1/system.componentmodel.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.objectmodel/4.0.12/system.objectmodel.4.0.12.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.emit.ilgeneration/4.0.1/system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.emit.lightweight/4.0.1/system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.extensions/4.0.1/system.reflection.extensions.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.reflection.typeextensions/4.1.0/system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency Microsoft.Extensions.Http does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency Microsoft.Extensions.Options does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v9.0"
+      ]
+    }
+  ]
 }
